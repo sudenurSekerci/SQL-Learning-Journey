@@ -1,12 +1,10 @@
-# SQL Practice – Fundamentals
+# SQL Learning Journey
+Structured SQL practice for foundational data querying skills using SQLite.
 
-This repository contains my early SQL practice work as I learn database querying
-with a focus on data analysis foundations for future AI / Machine Learning studies.
-
-## Purpose
-I started learning SQL to build a strong foundation in data extraction,
-aggregation, and filtering — essential skills for working with datasets
-used in analytics and machine learning pipelines.
+## Overview
+This repository documents my early SQL practice as I build a strong foundation
+in data querying, aggregation, and joins. My long-term goal is to specialize in
+AI and Machine Learning, where working efficiently with data is essential.
 
 ## Topics Covered
 - SELECT, WHERE
@@ -16,18 +14,16 @@ used in analytics and machine learning pipelines.
 - GROUP BY
 - Subqueries
 - INNER JOIN
-- String filtering (LIKE)
-- Basic data transformations
+- String filtering with LIKE
 
-## Database
-- SQL dialect: SQLite
-- Sample tables:
-  - `SALARIES`
-  - `CHECKED_OUT`
-  - `BOOKS`
+## Repository Structure
+- salaries_queries.sql – Salary-based SQL practice covering aggregation and filtering
+- library_queries.sql – JOIN-focused queries using book checkout data
 
-## Notes
-Each query is written cleanly and includes brief comments explaining its intent.
-Incorrect or ambiguous SQL patterns were avoided in favor of industry-safe queries.
-
+## How to Run
+These queries are written using the SQLite dialect.
+You can run them using:
+- DB Browser for SQLite
+- DBeaver
+- Any SQLite-compatible SQL editor
 
