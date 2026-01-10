@@ -1,29 +1,33 @@
-# SQL Learning Journey
-Structured SQL practice for foundational data querying skills using SQLite.
+# My SQL Journey 🚀
 
-## Overview
-This repository documents my early SQL practice as I build a strong foundation
-in data querying, aggregation, and joins. My long-term goal is to specialize in
-AI and Machine Learning, where working efficiently with data is essential.
+A comprehensive repository documenting my SQL learning process, featuring practice exercises and competitive programming solutions.
 
-## Topics Covered
-- SELECT, WHERE
-- DISTINCT
-- ORDER BY, LIMIT, OFFSET
-- Aggregate functions (COUNT, SUM, AVG, MIN, MAX)
-- GROUP BY
-- Subqueries
-- INNER JOIN
-- String filtering with LIKE
+## 🎯 Goal
+To master data querying, cleaning, and analysis to build a strong foundation for my future career in **Artificial Intelligence and Machine Learning**.
 
-## Repository Structure
-- salaries_queries.sql – Salary-based SQL practice covering aggregation and filtering
-- library_queries.sql – JOIN-focused queries using book checkout data
+## 📂 Repository Structure
 
-## How to Run
-These queries are written using the SQLite dialect.
-You can run them using:
-- DB Browser for SQLite
-- DBeaver
-- Any SQLite-compatible SQL editor
+### 📝 Documentation
+* [SQL Cheat Sheet](./Notes/CheatSheet.md) - Quick reference for syntax and logic.
 
+### 🛠 Practice
+Hands-on exercises based on custom scenarios:
+* [Salary Analysis](./Practice/salaries_queries.sql) - Focuses on aggregation and filtering.
+* [Library System](./Practice/library_queries.sql) - Focuses on complex JOIN operations.
+
+### 🏆 HackerRank Challenges
+Solutions to various SQL problems on HackerRank:
+
+| Step | Category | Progress | Solutions |
+| :--- | :--- | :---: | :--- |
+| 01 | **Basic Select** | 100% | [View Solutions](./HackerRank_Solutions_SQL/01_Basic_Select.sql) |
+| 02 | **Aggregation** | 0% | *In Progress* |
+| 03 | **Advanced Select** | 0% | *Coming Soon* |
+| 04 | **Basic Join** | 0% | *Coming Soon* |
+| 05 | **Advanced Join** | 0% | *Coming Soon* |
+| 06 | **Alternative Queries** | 0% | *Coming Soon* |
+
+## 🚀 Environment
+These queries are optimized for SQLite and MySQL dialects. Recommended tools:
+- DB Browser for SQLite / DBeaver
+- HackerRank SQL Environment
