@@ -21,7 +21,7 @@ Solutions to various SQL problems on HackerRank:
 | Step | Category | Progress | Solutions |
 | :--- | :--- | :---: | :--- |
 | 01 | **Basic Select** | 100% | [View Solutions](./HackerRank_Solutions_SQL/01_Basic_Select.sql) |
-| 02 | **Aggregation** | 0% | *In Progress* |
+| 02 | **Aggregation** | 100% | [View Solutions](./HackerRank_Solutions_SQL/02_Aggregation.sql) |
 | 03 | **Advanced Select** | 0% | *Coming Soon* |
 | 04 | **Basic Join** | 0% | *Coming Soon* |
 | 05 | **Advanced Join** | 0% | *Coming Soon* |
