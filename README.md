@@ -25,7 +25,7 @@ Solutions to various SQL problems on HackerRank:
 | 03 | **Advanced Select** | 0% | *Coming Soon* |
 | 04 | **Basic Join** | 0% | *Coming Soon* |
 | 05 | **Advanced Join** | 0% | *Coming Soon* |
-| 06 | **Alternative Queries** | 0% | *Coming Soon* |
+| 06 | **Alternative Queries** | 100% |  [View Solutions](./HackerRank_Solutions_SQL/06_Alternative_Queries.sql) |
 
 ## 🚀 Environment
 These queries are optimized for SQLite and MySQL dialects. Recommended tools:
