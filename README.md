@@ -23,7 +23,7 @@ Solutions to various SQL problems on HackerRank:
 | 01 | **Basic Select** | 100% | [View Solutions](./HackerRank_Solutions_SQL/01_Basic_Select.sql) |
 | 02 | **Aggregation** | 100% | [View Solutions](./HackerRank_Solutions_SQL/02_Aggregation.sql) |
 | 03 | **Advanced Select** | 0% | *Coming Soon* |
-| 04 | **Basic Join** | 0% | *Coming Soon* |
+| 04 | **Basic Join** | 1000% | [View Solutions](./HackerRank_Solutions_SQL/04_Basic_Join.sql) |
 | 05 | **Advanced Join** | 0% | *Coming Soon* |
 | 06 | **Alternative Queries** | 100% |  [View Solutions](./HackerRank_Solutions_SQL/06_Alternative_Queries.sql) |
 
